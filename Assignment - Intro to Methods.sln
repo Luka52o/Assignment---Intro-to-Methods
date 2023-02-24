@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment - Intro to Methods", "Assignment - Intro to Methods\Assignment - Intro to Methods.csproj", "{1C55134B-73ED-44D8-B042-99BF82F2440D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C55134B-73ED-44D8-B042-99BF82F2440D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C55134B-73ED-44D8-B042-99BF82F2440D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C55134B-73ED-44D8-B042-99BF82F2440D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C55134B-73ED-44D8-B042-99BF82F2440D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38292605-9687-4F7D-A767-2C19F63D0F58}
+	EndGlobalSection
+EndGlobal
